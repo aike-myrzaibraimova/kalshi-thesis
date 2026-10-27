@@ -1,0 +1,9 @@
+{
+  "downloaded_at_utc": "2026-07-16T17:54:27.453958+00:00",
+  "cleveland_source": "https://www.clevelandfed.org/-/media/files/webcharts/inflationnowcasting/nowcast_month.json?sc_lang=en",
+  "fred_tips_source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=T5YIE,T10YIE,DFII5,DGS5",
+  "cleveland_rows_all_series": 22560,
+  "cleveland_rows_cpi_mom": 4604,
+  "tips_rows": 16837,
+  "cleveland_availability_assumption": "10:00 America/New_York, matching the publisher's stated usual business-day update time"
+}

@@ -1,0 +1,12 @@
+{
+  "created_at_utc": "2026-07-18T09:02:06.512848+00:00",
+  "primary_benchmark": "kalshi_full_ladder",
+  "robustness_benchmark": "kalshi_top3",
+  "events": 12,
+  "terminal_prediction_rows": 396,
+  "horizon_prediction_rows": 1080,
+  "checkpoint_prediction_rows": 1692,
+  "checkpoint_horizon_rows": 3672,
+  "legacy_standalone_kalshi_rows_remaining": 0,
+  "model_refit_performed": false
+}

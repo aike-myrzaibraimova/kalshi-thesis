@@ -1,0 +1,2 @@
+n_events,prediction_correlation,mean_absolute_prediction_difference,maximum_absolute_prediction_difference,rmse_competitor,rmse_benchmark,rmse_delta_competitor_minus_benchmark,dm_hln,dm_p_two_sided,dm_p_one_sided_benchmark_better
+229,0.9977139225625637,28.696480915279135,206.69691718148533,24.98276708367946,46.50581478660189,-21.52304770292243,-4.203094123642438,3.781596387786301e-05,0.9999810920180611

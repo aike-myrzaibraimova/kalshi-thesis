@@ -1,0 +1,2 @@
+family,evaluation_unit,design,competitor,benchmark,n_events,rmse_competitor,rmse_benchmark,rmse_delta_competitor_minus_benchmark,bootstrap_95_lo,bootstrap_95_hi,dm_hln,dm_p_two_sided,dm_p_one_sided_benchmark_better,dm_p_two_sided_holm,dm_p_one_sided_holm
+H1b,index_points,all,sp500_futures,kalshi_full_ladder,158,20.735992435340055,48.5828228910386,-27.846830455698548,-37.23635595115037,-19.214852811883475,-4.435493534047915,1.7198706386389873e-05,0.9999914006468068,1.7198706386389873e-05,0.9999914006468068

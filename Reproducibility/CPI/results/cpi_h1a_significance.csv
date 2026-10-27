@@ -1,0 +1,2 @@
+family,design,competitor,benchmark,n_events,rmse_competitor,rmse_kalshi_full_ladder,rmse_delta_competitor_minus_kalshi,bootstrap_95_lo,bootstrap_95_hi,dm_hln,dm_p_two_sided,dm_p_one_sided_kalshi_better,dm_p_two_sided_holm,dm_p_one_sided_holm
+H1a,all,ar3,kalshi_full_ladder,15,0.24803763701607207,0.07246654400480267,0.17557109301126939,0.08579085143166479,0.2523494755676292,2.6241308135295203,0.020014167367141233,0.010007083683570617,0.020014167367141233,0.010007083683570617

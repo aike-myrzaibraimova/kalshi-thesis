@@ -1,0 +1,2 @@
+n_events,prediction_correlation,mean_absolute_prediction_difference,maximum_absolute_prediction_difference,rmse_competitor,rmse_kalshi_full_ladder,rmse_delta_competitor_minus_kalshi,dm_hln,dm_p_two_sided,dm_p_one_sided_kalshi_better
+12,0.9844826737546721,0.03083333333333353,0.25500000000000034,0.07175987156250133,0.015528870961320208,0.05623100060118112,0.95882304446,0.35824866837078706,0.17912433418539353

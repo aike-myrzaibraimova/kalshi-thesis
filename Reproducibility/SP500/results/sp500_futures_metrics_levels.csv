@@ -1,0 +1,2 @@
+design,model,n_events,rmse,mae,dm_vs_kalshi,dm_pvalue,dm_vs_sp500_futures,dm_pvalue_vs_sp500_futures,seed_rmse_min,seed_rmse_max
+all,sp500_futures,158,20.735992435340055,14.575316455696184,-4.435493534047915,1.7198706386389873e-05,,,,

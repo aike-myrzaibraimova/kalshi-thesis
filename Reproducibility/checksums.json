@@ -1,0 +1,94 @@
+{
+  "algorithm": "sha256",
+  "scope": "Supplied target inputs and distributed raw LSEG provenance files; generated sequences, results, figures, and LaTeX outputs excluded.",
+  "files": {
+    "0_data_acquisition/FFR/0_lseg/ffr/FFR Futures 2022-2025Jan.xlsx": {
+      "sha256": "e15cbdfedd95f07be501d8a276b89d76a24753c80dd3f8d862d3f86c6aed0e75",
+      "bytes": 35422
+    },
+    "0_data_acquisition/FFR/0_lseg/ffr/FFR Futures 2025-2026 plus July (SETTLE).xlsx": {
+      "sha256": "53aabe089f6baec832b8470d9687633e8aefdc4fc33b8ca79f9034f3de818f71",
+      "bytes": 31599
+    },
+    "0_data_acquisition/SP500/0_lseg/esc1_30min_utc_2025-07-21_2026-07-21.csv": {
+      "sha256": "fab7a688df0d02dc4c299cd419cb07e4624b2c5f8989b560fc498202fc3faee6",
+      "bytes": 777430
+    },
+    "0_data_acquisition/SP500/0_lseg/esc1_hourly_utc_2025-07-21_2026-07-21.csv": {
+      "sha256": "4524afee37c2ba9ee05f70c53e32bfabecec036a41a364996dc5648ea4c56ef2",
+      "bytes": 357832
+    },
+    "CPI/data/cpi_financial_data/cleveland_cpi_mom_nowcasts.csv": {
+      "sha256": "932d47093a48a56e988626b7f69d90371db7e92e7348efafeda99e1fc2b3d3f9",
+      "bytes": 847917
+    },
+    "CPI/data/cpi_financial_data/cleveland_nowcast_all_series.csv": {
+      "sha256": "547886c97729176dfa6556d97499b898c70bb33ee28f0ddbdd5e9cd1c9aad4fe",
+      "bytes": 4531487
+    },
+    "CPI/data/cpi_financial_data/cleveland_nowcast_month_raw.json": {
+      "sha256": "4b82a88b443409d2b01a2187d34cd930b798c80d48147bb4c3d548e74f9422dd",
+      "bytes": 7505626
+    },
+    "CPI/data/cpi_financial_data/download_metadata.json": {
+      "sha256": "0c5a6a651fd69338a75643dffb26766cde14144f0a746d6e5354306cd1853ff4",
+      "bytes": 512
+    },
+    "CPI/data/cpi_financial_data/tips_daily.csv": {
+      "sha256": "4aa0a804043215866ed231caab1d063fd08d0b6ff9f8c6a1a455c7e37c6eae9a",
+      "bytes": 387522
+    },
+    "CPI/data/cpi_release_timestamps.csv": {
+      "sha256": "d70c5b02c51c2ce05dfb245ea93b5c27770aa4a6f876daa570602158777d424b",
+      "bytes": 10075
+    },
+    "CPI/data/fred_first_release_cpi.csv": {
+      "sha256": "7e82f6789e6131d28b2b053bae49fd691bedf802cad06601c0a4285442c4cfb1",
+      "bytes": 47154
+    },
+    "CPI/data/trade_level_data_headline_cpi_releases_mom.csv": {
+      "sha256": "866bac3e5743477e9959f7369463067ea782eac7c8618fa7b4c4e1113c298f26",
+      "bytes": 19993835
+    },
+    "FFR/data/FEDFUNDS.csv": {
+      "sha256": "0e465217248919f27590a55f25ef2cffe5286ab1723a81688a4a03194f0885e9",
+      "bytes": 13911
+    },
+    "FFR/data/ffr_futures.csv": {
+      "sha256": "10b99a95376cd26402184a4c879403c0caaabecdb1a01fc5fc45df4903e45262",
+      "bytes": 82606
+    },
+    "FFR/data/ffr_futures_lseg_extracted.csv": {
+      "sha256": "a3f0e2621be9e1d04f8f58b9d6a1824f832726695d7b9c7f7cdf2b8049ff0394",
+      "bytes": 275866
+    },
+    "FFR/data/fomc_release_timestamps.csv": {
+      "sha256": "6044ce246a09a1dea37838f1f559a6f5a64b6b25a7c413f2c4bc4fa160824cdd",
+      "bytes": 5721
+    },
+    "FFR/data/trade_level_data_fed_levels.csv": {
+      "sha256": "43b717d4429f991ac31573945955d25aef284f453dded853816932c634d1fc29",
+      "bytes": 24148521
+    },
+    "SP500/data/SP500.csv": {
+      "sha256": "2bf3cb2f54a003826a587d48d31d12aa308b3007825208bb23fa36c20bddcc47",
+      "bytes": 48903
+    },
+    "SP500/data/fred_historical_sp500.csv": {
+      "sha256": "28b5d076a83d3a43c381d0ac4ebdb96da8d3aad27dc5b1b6ee51a21556aa388a",
+      "bytes": 47553
+    },
+    "SP500/data/kxinx_markets_all.csv": {
+      "sha256": "34998b2656f0648775d2c92fd2d843604e47db6a15d4747de1bb11ac1565d9de",
+      "bytes": 3790005
+    },
+    "SP500/data/kxinx_trades_all.csv": {
+      "sha256": "f97dabd9a5e9305ff17c6630d40608584ba59e11d43056f46236268168002707",
+      "bytes": 155220201
+    },
+    "SP500/data/sp500_futures.csv": {
+      "sha256": "2bd3d22d637a5083c07fff061f90e6ffcc15cbb3fe09c4eaf79d8b308239765e",
+      "bytes": 768510
+    }
+  }
+}

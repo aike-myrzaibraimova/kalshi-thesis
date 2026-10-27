@@ -1,0 +1,47 @@
+event_id,event_period,cutoff_utc,cutoff_basis,target_observation_date,target_upper_first_release,exclude_reason
+FED-21DEC,2021-12,2021-12-15T19:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2021-12-17,0.25,
+FED-21JUL,2021-07,2021-07-28T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2021-07-30,0.25,
+FED-21SEP,2021-09,2021-09-22T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2021-09-24,0.25,
+FED-22DEC,2022-12,2022-12-14T19:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2022-12-16,4.5,
+FED-22JAN,2022-01,2022-01-26T19:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2022-01-28,0.25,
+FED-22JUL,2022-07,2022-07-27T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2022-07-29,2.5,
+FED-22JUN,2022-06,2022-06-15T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2022-06-17,1.75,
+FED-22MAR,2022-03,2022-03-16T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2022-03-18,0.5,
+FED-22MAY,2022-05,2022-05-04T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2022-05-06,1.0,
+FED-22NOV,2022-11,2022-11-02T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2022-11-04,4.0,
+FED-22SEP,2022-09,2022-09-21T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2022-09-23,3.25,
+FED-23DEC,2023-12,2023-12-13T19:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2023-12-15,5.5,
+FED-23FEB,2023-02,2023-02-01T19:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2023-02-03,4.75,
+FED-23JUL,2023-07,2023-07-26T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2023-07-28,5.5,
+FED-23JUN,2023-06,2023-06-14T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2023-06-16,5.25,
+FED-23MAR,2023-03,2023-03-22T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2023-03-24,5.0,
+FED-23MAY,2023-05,2023-05-03T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2023-05-05,5.25,
+FED-23NOV,2023-11,2023-11-01T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2023-11-03,5.5,
+FED-23SEP,2023-09,2023-09-20T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2023-09-22,5.5,
+FED-24DEC,2024-12,2024-12-18T19:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2024-12-20,4.5,
+FED-24JAN,2024-01,2024-01-31T19:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2024-02-02,5.5,
+FED-24JUL,2024-07,2024-07-31T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2024-08-02,5.5,
+FED-24JUN,2024-06,2024-06-12T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2024-06-14,5.5,
+FED-24MAR,2024-03,2024-03-20T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2024-03-22,5.5,
+FED-24MAY,2024-05,2024-05-01T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2024-05-03,5.5,
+FED-24NOV,2024-11,2024-11-07T19:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2024-11-09,4.75,
+FED-24SEP,2024-09,2024-09-18T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2024-09-20,5.0,
+FED-25DEC,2025-12,2025-12-10T19:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2025-12-12,3.75,
+FED-25JAN,2025-01,2025-01-29T19:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2025-01-31,4.5,
+FED-25JUL,2025-07,2025-07-30T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2025-08-01,4.5,
+FED-25JUN,2025-06,2025-06-18T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2025-06-20,4.5,
+FED-25MAR,2025-03,2025-03-19T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2025-03-21,4.5,
+FED-25MAY,2025-05,2025-05-07T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2025-05-09,4.5,
+FED-25OCT,2025-10,2025-10-29T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2025-10-31,4.0,
+FED-25SEP,2025-09,2025-09-17T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2025-09-19,4.25,
+FED-26APR,2026-04,2026-04-29T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2026-05-01,3.75,
+FED-26DEC,2026-12,,,,,outside sample (July 2026+)
+FED-26JAN,2026-01,2026-01-28T19:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2026-01-30,3.75,
+FED-26JUL,2026-07,,,,,outside sample (July 2026+)
+FED-26JUN,2026-06,2026-06-17T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2026-06-19,3.75,
+FED-26MAR,2026-03,2026-03-18T18:00:00+00:00,"official FOMC statement (14:00 ET, 0_fomc_release_timestamps.py)",2026-03-20,3.75,
+FED-26OCT,2026-10,,,,,outside sample (July 2026+)
+FED-26SEP,2026-09,,,,,outside sample (July 2026+)
+FED-27APR,2027-04,,,,,outside sample (July 2026+)
+FED-27JAN,2027-01,,,,,outside sample (July 2026+)
+FED-27MAR,2027-03,,,,,outside sample (July 2026+)

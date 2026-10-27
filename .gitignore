@@ -1,0 +1,35 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.idea/
+.venv/
+.env
+env.env
+*.pem
+*.key
+~$*
+*.aux
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.toc
+
+# --- LSEG licensed data (not redistributable) ---
+**/0_lseg/
+**/ffr_futures*.csv
+**/sp500_futures.csv
+**/*_with_financial_benchmark_*predictions.csv
+**/sp500_futures*predictions.csv
+**/*predictions_with_futures.csv
+*.xlsx
+
+# uncompressed copy of the large Kalshi trade file (tracked as .csv.gz)
+Reproducibility/SP500/data/kxinx_trades_all.csv
+
+# local editor/app files
+.obsidian/
+.Rhistory

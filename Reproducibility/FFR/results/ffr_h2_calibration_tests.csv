@@ -1,0 +1,8 @@
+test_family,test,n_events,estimate,expected,statistic,p_value,p_value_holm,reject_5pct_raw,reject_5pct_holm,pit_seed
+PIT uniformity,Kolmogorov-Smirnov,35,,,0.09432827503678676,0.8857296140468558,1.0,False,False,20260717
+PIT uniformity,Cramer-von Mises,35,,,0.04082005073461821,0.9314415428278084,1.0,False,False,20260717
+PIT tails,Lower PIT tail (<0.10),35,0.11428571428571428,0.1,4.0,0.7752653939618557,1.0,False,False,20260717
+PIT tails,Upper PIT tail (>0.90),35,0.05714285714285714,0.1,2.0,0.5755012997057267,1.0,False,False,20260717
+Central interval coverage,50% central interval,35,1.0,0.5,35.0,5.820766091346741e-11,4.0745362639427185e-10,True,True,20260717
+Central interval coverage,80% central interval,35,1.0,0.8,35.0,0.0009304661809615778,0.005582797085769467,True,True,20260717
+Central interval coverage,90% central interval,35,1.0,0.9,35.0,0.04502178867709594,0.2251089433854797,True,False,20260717
